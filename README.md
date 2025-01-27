@@ -1,5 +1,9 @@
 # Genuary 2025
 
+GENUARY is an artificially generated month of time where we build code that makes beautiful things.
+
+See https://genuary.art/
+
 ## Day 14 - Pure black and white. No gray.
 
 Moving black curves on white background. The curves connect and disconnect based on the proximity of invisible points.
