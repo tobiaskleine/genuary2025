@@ -27,3 +27,11 @@ Quadratic chaos emerging on a parabola moving downwards. Visualized with colored
 **My post:** [on Mastodon](https://mastodon.green/@tobias_kleine/113902595908021648)
 
 **Framework:** p5.js
+
+## Day 28 - Infinite Scroll.
+
+Colored glowing rectangles endlessly moving upwards with large ones in the foreground and smaller faster rectangles in the background.
+
+**My post:** [on Mastodon](https://mastodon.green/@tobias_kleine/113908583417463101)
+
+**Framework:** p5.js
